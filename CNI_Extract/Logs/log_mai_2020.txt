@@ -1,0 +1,2135 @@
+03:02:47 AM Extraction des r�gions d'int�r�t :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+03:03:12 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+03:03:28 AM ID Verification  :  "ID matching to Selfie"
+
+03:11:02 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+03:11:04 AM ID Verification  :  "ID matching to Selfie"
+
+03:20:01 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+03:20:07 AM ID Verification  :  "ID matching to Selfie"
+
+03:38:51 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+03:39:04 AM ID Verification  :  "ID matching to Selfie"
+
+03:52:10 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+03:52:17 AM ID Verification  :  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>ValueError: ('Cannot warp empty image with dimensions', (0, 146, 3)) // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"
+        type="text/css">
+    <!-- We need to make sure this has a favicon so that the debugger does
+         not by accident trigger a request to /favicon.ico which might
+         change the application state. -->
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script type="text/javascript">
+      var TRACEBACK = 2399999770128,
+          CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "jbUfgx7E6XNswt5YguqG";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>ValueError</h1>
+<div class="detail">
+  <p class="errormsg">ValueError: ('Cannot warp empty image with dimensions', (0, 146, 3))</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  
+  <ul><li><div class="frame" id="frame-2399999766824">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2464</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app` which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to applying middleware.&quot;&quot;&quot;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>
+<pre class="line after"><span class="ws">        </span>return &quot;&lt;%s %r&gt;&quot; % (self.__class__.__name__, self.name)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374416">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2450</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129373744">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1867</em>,
+      in <code class="function">handle_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>
+<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>
+<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>
+<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>
+<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>
+<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">            </span>else:</pre>
+<pre class="line after"><span class="ws">                </span>raise e</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>
+<pre class="line after"><span class="ws">        </span>server_error = InternalServerError()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374584">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374640">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2447</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374752">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1952</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>
+<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374808">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1821</em>,
+      in <code class="function">handle_user_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>if handler is None:</pre>
+<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">        </span>return handler(e)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Handle an exception that did not have an error handler</pre>
+<pre class="line after"><span class="ws">        </span>associated with it, or that was raised from an error handler.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374864">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374696">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1950</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374976">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1936</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>getattr(rule, &quot;provide_automatic_options&quot;, False)</pre>
+<pre class="line before"><span class="ws">            </span>and req.method == &quot;OPTIONS&quot;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129375032">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">376</em>,
+      in <code class="function">id_matching</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">    </span>#id_incorrect = 'ID not matching !'</pre>
+<pre class="line before"><span class="ws">    </span>data = {}</pre>
+<pre class="line before"><span class="ws">    </span>for name in names:</pre>
+<pre class="line before"><span class="ws">        </span>image_dirpath = image_dir_basepath + name</pre>
+<pre class="line before"><span class="ws">        </span>image_filepaths = [os.path.join(image_dirpath, f) for f in os.listdir(image_dirpath)]</pre>
+<pre class="line current"><span class="ws">        </span>embs = calc_embs(image_filepaths)</pre>
+<pre class="line after"><span class="ws">        </span>for i in range(len(image_filepaths)):</pre>
+<pre class="line after"><span class="ws">            </span>data['{}{}'.format(name, i)] = {'image_filepath' : image_filepaths[i],</pre>
+<pre class="line after"><span class="ws">                                            </span>'emb' : embs[i]}</pre>
+<pre class="line after"><span class="ws">    </span>distance_euclid = []</pre>
+<pre class="line after"><span class="ws">    </span>for key in data:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129375088">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">172</em>,
+      in <code class="function">calc_embs</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>aligned_images.append(aligned)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>return np.array(aligned_images)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws"></span>def calc_embs(filepaths, margin=10, batch_size=1):</pre>
+<pre class="line current"><span class="ws">    </span>aligned_images = prewhiten(load_and_align_images(filepaths, margin))</pre>
+<pre class="line after"><span class="ws">    </span>pd = []</pre>
+<pre class="line after"><span class="ws">    </span>for start in range(0, len(aligned_images), batch_size):</pre>
+<pre class="line after"><span class="ws">        </span>pd.append(model.predict_on_batch(aligned_images[start:start+batch_size]))</pre>
+<pre class="line after"><span class="ws">    </span>embs = l2_normalize(np.concatenate(pd))</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129374920">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">166</em>,
+      in <code class="function">load_and_align_images</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                                         </span>scaleFactor=1.1,</pre>
+<pre class="line before"><span class="ws">                                         </span>minNeighbors=3)</pre>
+<pre class="line before"><span class="ws">        </span>(x, y, w, h) = faces[0]</pre>
+<pre class="line before"><span class="ws">        </span>cropped = img_match[y-margin//2:y+h+margin//2,</pre>
+<pre class="line before"><span class="ws">                      </span>x-margin//2:x+w+margin//2, :]</pre>
+<pre class="line current"><span class="ws">        </span>aligned = resize(cropped, (image_size, image_size), mode='reflect')</pre>
+<pre class="line after"><span class="ws">        </span>aligned_images.append(aligned)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>return np.array(aligned_images)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>def calc_embs(filepaths, margin=10, batch_size=1):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129373912">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">178</em>,
+      in <code class="function">resize</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>tform.params[0, 1] = 0</pre>
+<pre class="line before"><span class="ws">        </span>tform.params[1, 0] = 0</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>out = warp(image, tform, output_shape=output_shape, order=order,</pre>
+<pre class="line before"><span class="ws">                   </span>mode=mode, cval=cval, clip=clip,</pre>
+<pre class="line current"><span class="ws">                   </span>preserve_range=preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>else:  # n-dimensional interpolation</pre>
+<pre class="line after"><span class="ws">        </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>coord_arrays = [factors[i] * (np.arange(d) + 0.5) - 0.5</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2400129375144">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">828</em>,
+      in <code class="function">warp</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>&quot;&quot;&quot;</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>if image.size == 0:</pre>
+<pre class="line before"><span class="ws">        </span>raise ValueError(&quot;Cannot warp empty image with dimensions&quot;,</pre>
+<pre class="line current"><span class="ws">                         </span>image.shape)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>image = convert_to_float(image, preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+</ul>
+  <blockquote>ValueError: ('Cannot warp empty image with dimensions', (0, 146, 3))</blockquote>
+</div>
+
+<div class="plain">
+  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">
+    <p>
+      <input type="hidden" name="language" value="pytb">
+      This is the Copy/Paste friendly version of the traceback.  <span
+      class="pastemessage">You can also paste this traceback into
+      a <a href="https://gist.github.com/">gist</a>:
+      <input type="submit" value="create paste"></span>
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 376, in id_matching
+    embs = calc_embs(image_filepaths)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 172, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 166, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 178, in resize
+    preserve_range=preserve_range)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 146, 3))</textarea>
+  </form>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 376, in id_matching
+    embs = calc_embs(image_filepaths)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 172, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 166, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 178, in resize
+    preserve_range=preserve_range)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 146, 3))
+
+-->
+
+23:49:53 PM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+23:50:46 PM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+23:50:50 PM ID Verification  :  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>IndexError: tuple index out of range // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"
+        type="text/css">
+    <!-- We need to make sure this has a favicon so that the debugger does
+         not by accident trigger a request to /favicon.ico which might
+         change the application state. -->
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script type="text/javascript">
+      var TRACEBACK = 1933002750552,
+          CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "bTrpAuOkQagINsJpsjBg";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>IndexError</h1>
+<div class="detail">
+  <p class="errormsg">IndexError: tuple index out of range</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  
+  <ul><li><div class="frame" id="frame-1933178603448">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2464</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app` which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to applying middleware.&quot;&quot;&quot;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>
+<pre class="line after"><span class="ws">        </span>return &quot;&lt;%s %r&gt;&quot; % (self.__class__.__name__, self.name)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933178603840">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2450</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933178602216">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1867</em>,
+      in <code class="function">handle_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>
+<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>
+<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>
+<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>
+<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>
+<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">            </span>else:</pre>
+<pre class="line after"><span class="ws">                </span>raise e</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>
+<pre class="line after"><span class="ws">        </span>server_error = InternalServerError()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933178601544">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196793952">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2447</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794008">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1952</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>
+<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794064">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1821</em>,
+      in <code class="function">handle_user_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>if handler is None:</pre>
+<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">        </span>return handler(e)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Handle an exception that did not have an error handler</pre>
+<pre class="line after"><span class="ws">        </span>associated with it, or that was raised from an error handler.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794120">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196793896">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1950</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794288">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1936</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>getattr(rule, &quot;provide_automatic_options&quot;, False)</pre>
+<pre class="line before"><span class="ws">            </span>and req.method == &quot;OPTIONS&quot;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794344">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">366</em>,
+      in <code class="function">id_matching</code></h4>
+  <div class="source "><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>data = {}</pre>
+<pre class="line before"><span class="ws">    </span>for name in names:</pre>
+<pre class="line before"><span class="ws">        </span>image_dirpath = image_dir_basepath + name</pre>
+<pre class="line before"><span class="ws">        </span>image_filepaths = [os.path.join(image_dirpath, f) for f in os.listdir(image_dirpath)]</pre>
+<pre class="line current"><span class="ws">        </span>embs = calc_embs(image_filepaths)</pre>
+<pre class="line after"><span class="ws">        </span>for i in range(len(image_filepaths)):</pre>
+<pre class="line after"><span class="ws">            </span>data['{}{}'.format(name, i)] = {'image_filepath' : image_filepaths[i],</pre>
+<pre class="line after"><span class="ws">                                          </span>'emb' : embs[i]}</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def calc_dist(img_name0, img_name1):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794400">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">354</em>,
+      in <code class="function">calc_embs</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>aligned_images.append(aligned)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>return np.array(aligned_images)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre>
+<pre class="line current"><span class="ws">        </span>aligned_images = prewhiten(load_and_align_images(filepaths, margin))</pre>
+<pre class="line after"><span class="ws">        </span>pd = []</pre>
+<pre class="line after"><span class="ws">        </span>for start in range(0, len(aligned_images), batch_size):</pre>
+<pre class="line after"><span class="ws">            </span>pd.append(model.predict_on_batch(aligned_images[start:start+batch_size]))</pre>
+<pre class="line after"><span class="ws">        </span>embs = l2_normalize(np.concatenate(pd))</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-1933196794232">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">345</em>,
+      in <code class="function">load_and_align_images</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>img_match = imread(file_path)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">            </span>faces = cascade.detectMultiScale(img_match,</pre>
+<pre class="line before"><span class="ws">                                             </span>scaleFactor=1.1,</pre>
+<pre class="line before"><span class="ws">                                             </span>minNeighbors=3)</pre>
+<pre class="line current"><span class="ws">            </span>(x, y, w, h) = faces[0]</pre>
+<pre class="line after"><span class="ws">            </span>cropped = img_match[y-margin//2:y+h+margin//2,</pre>
+<pre class="line after"><span class="ws">                          </span>x-margin//2:x+w+margin//2, :]</pre>
+<pre class="line after"><span class="ws">            </span>aligned = resize(cropped, (image_size, image_size), mode='reflect')</pre>
+<pre class="line after"><span class="ws">            </span>aligned_images.append(aligned)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+</ul>
+  <blockquote>IndexError: tuple index out of range</blockquote>
+</div>
+
+<div class="plain">
+  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">
+    <p>
+      <input type="hidden" name="language" value="pytb">
+      This is the Copy/Paste friendly version of the traceback.  <span
+      class="pastemessage">You can also paste this traceback into
+      a <a href="https://gist.github.com/">gist</a>:
+      <input type="submit" value="create paste"></span>
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 366, in id_matching
+    embs = calc_embs(image_filepaths)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 354, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 345, in load_and_align_images
+    (x, y, w, h) = faces[0]
+IndexError: tuple index out of range</textarea>
+  </form>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 366, in id_matching
+    embs = calc_embs(image_filepaths)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 354, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 345, in load_and_align_images
+    (x, y, w, h) = faces[0]
+IndexError: tuple index out of range
+
+-->
+
+01:08:06 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+01:08:12 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+01:08:40 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+01:08:43 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+02:27:22 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+02:27:25 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+06:18:11 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+06:18:14 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+00:32:26 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+00:32:28 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+00:53:31 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+00:53:33 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+01:10:33 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+01:10:35 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+01:12:06 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+01:12:07 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+01:35:21 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+01:35:24 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+04:46:59 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+04:49:15 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+07:40:28 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+07:41:48 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+07:46:20 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:03:02 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+23:35:59 PM ID Verification  :  "ID MATCHING TO SELFIE"
+
+03:21:16 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+03:55:17 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+04:03:07 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+04:05:25 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+04:08:09 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+04:08:29 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+07:02:48 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+07:03:10 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+07:12:28 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+07:12:58 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+07:15:20 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+07:15:48 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+08:29:06 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:30:39 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:33:47 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:38:40 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+22:15:45 PM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+22:16:31 PM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+22:19:18 PM ID Verification  :  "ID MATCHING TO SELFIE"
+
+02:05:01 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+02:05:33 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+02:05:37 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+02:26:43 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+02:27:06 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+02:27:14 AM ID Verification  :  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3)) // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"
+        type="text/css">
+    <!-- We need to make sure this has a favicon so that the debugger does
+         not by accident trigger a request to /favicon.ico which might
+         change the application state. -->
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script type="text/javascript">
+      var TRACEBACK = 1989170016664,
+          CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "YxB9mlN9X4z8GHLy6tCv";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>ValueError</h1>
+<div class="detail">
+  <p class="errormsg">ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  
+  <ul><li><div class="frame" id="frame-1989310354712">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2464</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app` which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to applying middleware.&quot;&quot;&quot;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>
+<pre class="line after"><span class="ws">        </span>return &quot;&lt;%s %r&gt;&quot; % (self.__class__.__name__, self.name)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310355440">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2450</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310355048">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1867</em>,
+      in <code class="function">handle_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>
+<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>
+<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>
+<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>
+<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>
+<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">            </span>else:</pre>
+<pre class="line after"><span class="ws">                </span>raise e</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>
+<pre class="line after"><span class="ws">        </span>server_error = InternalServerError()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310356952">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357008">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2447</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357120">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1952</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>
+<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357176">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1821</em>,
+      in <code class="function">handle_user_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>if handler is None:</pre>
+<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">        </span>return handler(e)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Handle an exception that did not have an error handler</pre>
+<pre class="line after"><span class="ws">        </span>associated with it, or that was raised from an error handler.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357232">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357064">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1950</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357344">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1936</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>getattr(rule, &quot;provide_automatic_options&quot;, False)</pre>
+<pre class="line before"><span class="ws">            </span>and req.method == &quot;OPTIONS&quot;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357400">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">373</em>,
+      in <code class="function">id_matching</code></h4>
+  <div class="source "><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>my_data = {}</pre>
+<pre class="line before"><span class="ws">    </span>for name in names:</pre>
+<pre class="line before"><span class="ws">        </span>image_dirpath = image_dir_basepath + name</pre>
+<pre class="line before"><span class="ws">        </span>image_filepaths = [os.path.join(image_dirpath, f) for f in os.listdir(image_dirpath)]</pre>
+<pre class="line current"><span class="ws">        </span>embs = calc_embs(image_filepaths)</pre>
+<pre class="line after"><span class="ws">        </span>for i in range(len(image_filepaths)):</pre>
+<pre class="line after"><span class="ws">            </span>my_data['{}{}'.format(name, i)] = {'image_filepath' : image_filepaths[i], 'emb' : embs[i]}</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def calc_dist(img_name0, img_name1):</pre>
+<pre class="line after"><span class="ws">        </span>return distance.euclidean(my_data[img_name0]['emb'], my_data[img_name1]['emb'])</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310354936">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">361</em>,
+      in <code class="function">calc_embs</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>aligned_images.append(aligned)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>return np.array(aligned_images)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre>
+<pre class="line current"><span class="ws">        </span>aligned_images = prewhiten(load_and_align_images(filepaths, margin))</pre>
+<pre class="line after"><span class="ws">        </span>pd = []</pre>
+<pre class="line after"><span class="ws">        </span>for start in range(0, len(aligned_images), batch_size):</pre>
+<pre class="line after"><span class="ws">            </span>pd.append(model.predict_on_batch(aligned_images[start:start+batch_size]))</pre>
+<pre class="line after"><span class="ws">        </span>embs = l2_normalize(np.concatenate(pd))</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310356784">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">355</em>,
+      in <code class="function">load_and_align_images</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                                             </span>scaleFactor=1.1,</pre>
+<pre class="line before"><span class="ws">                                             </span>minNeighbors=3)</pre>
+<pre class="line before"><span class="ws">            </span>(x, y, w, h) = faces[0]</pre>
+<pre class="line before"><span class="ws">            </span>cropped = img_match[y-margin//2:y+h+margin//2,</pre>
+<pre class="line before"><span class="ws">                          </span>x-margin//2:x+w+margin//2, :]</pre>
+<pre class="line current"><span class="ws">            </span>aligned = resize(cropped, (image_size, image_size), mode='reflect')</pre>
+<pre class="line after"><span class="ws">            </span>aligned_images.append(aligned)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>return np.array(aligned_images)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310357288">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">178</em>,
+      in <code class="function">resize</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>tform.params[0, 1] = 0</pre>
+<pre class="line before"><span class="ws">        </span>tform.params[1, 0] = 0</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>out = warp(image, tform, output_shape=output_shape, order=order,</pre>
+<pre class="line before"><span class="ws">                   </span>mode=mode, cval=cval, clip=clip,</pre>
+<pre class="line current"><span class="ws">                   </span>preserve_range=preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>else:  # n-dimensional interpolation</pre>
+<pre class="line after"><span class="ws">        </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>coord_arrays = [factors[i] * (np.arange(d) + 0.5) - 0.5</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1989310356224">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">828</em>,
+      in <code class="function">warp</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>&quot;&quot;&quot;</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>if image.size == 0:</pre>
+<pre class="line before"><span class="ws">        </span>raise ValueError(&quot;Cannot warp empty image with dimensions&quot;,</pre>
+<pre class="line current"><span class="ws">                         </span>image.shape)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>image = convert_to_float(image, preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+</ul>
+  <blockquote>ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</blockquote>
+</div>
+
+<div class="plain">
+  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">
+    <p>
+      <input type="hidden" name="language" value="pytb">
+      This is the Copy/Paste friendly version of the traceback.  <span
+      class="pastemessage">You can also paste this traceback into
+      a <a href="https://gist.github.com/">gist</a>:
+      <input type="submit" value="create paste"></span>
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 373, in id_matching
+    embs = calc_embs(image_filepaths)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 361, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 355, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 178, in resize
+    preserve_range=preserve_range)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</textarea>
+  </form>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 373, in id_matching
+    embs = calc_embs(image_filepaths)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 361, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 355, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 178, in resize
+    preserve_range=preserve_range)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))
+
+-->
+
+06:57:32 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+06:57:48 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+06:58:27 AM ID Verification  :  "ID NOT MATCHING"
+
+07:04:18 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+07:04:33 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+07:05:10 AM ID Verification  :  "ID NOT MATCHING"
+
+07:10:43 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+07:10:57 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+07:11:41 AM ID Verification  :  "ID NOT MATCHING"
+
+07:25:50 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+07:26:05 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+07:26:52 AM ID Verification  :  "ID NOT MATCHING"
+
+07:32:18 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+07:32:33 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+07:33:32 AM ID Verification  :  "ID NOT MATCHING"
+
+07:37:22 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+07:37:38 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+07:38:22 AM ID Verification  :  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3)) // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"
+        type="text/css">
+    <!-- We need to make sure this has a favicon so that the debugger does
+         not by accident trigger a request to /favicon.ico which might
+         change the application state. -->
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script type="text/javascript">
+      var TRACEBACK = 1790479459608,
+          CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "V9QOWWIGyIKyjtK03moJ";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>ValueError</h1>
+<div class="detail">
+  <p class="errormsg">ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  
+  <ul><li><div class="frame" id="frame-1790480252264">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2464</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app` which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to applying middleware.&quot;&quot;&quot;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>
+<pre class="line after"><span class="ws">        </span>return &quot;&lt;%s %r&gt;&quot; % (self.__class__.__name__, self.name)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480251648">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2450</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480252488">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1867</em>,
+      in <code class="function">handle_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>
+<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>
+<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>
+<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>
+<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>
+<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">            </span>else:</pre>
+<pre class="line after"><span class="ws">                </span>raise e</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>
+<pre class="line after"><span class="ws">        </span>server_error = InternalServerError()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480497016">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480494888">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2447</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480495336">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1952</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>
+<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480495784">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1821</em>,
+      in <code class="function">handle_user_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>if handler is None:</pre>
+<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">        </span>return handler(e)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Handle an exception that did not have an error handler</pre>
+<pre class="line after"><span class="ws">        </span>associated with it, or that was raised from an error handler.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480496232">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480495112">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1950</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480496680">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1936</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>getattr(rule, &quot;provide_automatic_options&quot;, False)</pre>
+<pre class="line before"><span class="ws">            </span>and req.method == &quot;OPTIONS&quot;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790289103840">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">378</em>,
+      in <code class="function">id_matching</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>my_data = {}</pre>
+<pre class="line before"><span class="ws">        </span>#my_data.clear()</pre>
+<pre class="line before"><span class="ws">        </span>for name in names:</pre>
+<pre class="line before"><span class="ws">            </span>image_dirpath = image_dir_basepath + name</pre>
+<pre class="line before"><span class="ws">            </span>image_filepaths = [os.path.join(image_dirpath, f) for f in os.listdir(image_dirpath)]</pre>
+<pre class="line current"><span class="ws">            </span>embs = calc_embs(image_filepaths)</pre>
+<pre class="line after"><span class="ws">            </span>for i in range(len(image_filepaths)):</pre>
+<pre class="line after"><span class="ws">                </span>my_data['{}{}'.format(name, i)] = {'image_filepath' : image_filepaths[i], 'emb' : embs[i]}</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>def calc_dist(img_name0, img_name1):</pre>
+<pre class="line after"><span class="ws">            </span>return distance.euclidean(my_data[img_name0]['emb'], my_data[img_name1]['emb'])</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790289103784">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">365</em>,
+      in <code class="function">calc_embs</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                </span>aligned_images.append(aligned)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">            </span>return np.array(aligned_images)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre>
+<pre class="line current"><span class="ws">            </span>aligned_images = prewhiten(load_and_align_images(filepaths, margin))</pre>
+<pre class="line after"><span class="ws">            </span>pd = []</pre>
+<pre class="line after"><span class="ws">            </span>for start in range(0, len(aligned_images), batch_size):</pre>
+<pre class="line after"><span class="ws">                </span>pd.append(model.predict_on_batch(aligned_images[start:start+batch_size]))</pre>
+<pre class="line after"><span class="ws">            </span>embs = l2_normalize(np.concatenate(pd))</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790289103728">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">359</em>,
+      in <code class="function">load_and_align_images</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                                                 </span>scaleFactor=1.1,</pre>
+<pre class="line before"><span class="ws">                                                 </span>minNeighbors=3)</pre>
+<pre class="line before"><span class="ws">                </span>(x, y, w, h) = faces[0]</pre>
+<pre class="line before"><span class="ws">                </span>cropped = img_match[y-margin//2:y+h+margin//2,</pre>
+<pre class="line before"><span class="ws">                              </span>x-margin//2:x+w+margin//2, :]</pre>
+<pre class="line current"><span class="ws">                </span>aligned = resize(cropped, (image_size, image_size), mode='reflect')</pre>
+<pre class="line after"><span class="ws">                </span>aligned_images.append(aligned)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">            </span>return np.array(aligned_images)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790289103448">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">178</em>,
+      in <code class="function">resize</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>tform.params[0, 1] = 0</pre>
+<pre class="line before"><span class="ws">        </span>tform.params[1, 0] = 0</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>out = warp(image, tform, output_shape=output_shape, order=order,</pre>
+<pre class="line before"><span class="ws">                   </span>mode=mode, cval=cval, clip=clip,</pre>
+<pre class="line current"><span class="ws">                   </span>preserve_range=preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>else:  # n-dimensional interpolation</pre>
+<pre class="line after"><span class="ws">        </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>coord_arrays = [factors[i] * (np.arange(d) + 0.5) - 0.5</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790480496904">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">828</em>,
+      in <code class="function">warp</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>&quot;&quot;&quot;</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>if image.size == 0:</pre>
+<pre class="line before"><span class="ws">        </span>raise ValueError(&quot;Cannot warp empty image with dimensions&quot;,</pre>
+<pre class="line current"><span class="ws">                         </span>image.shape)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>image = convert_to_float(image, preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+</ul>
+  <blockquote>ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</blockquote>
+</div>
+
+<div class="plain">
+  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">
+    <p>
+      <input type="hidden" name="language" value="pytb">
+      This is the Copy/Paste friendly version of the traceback.  <span
+      class="pastemessage">You can also paste this traceback into
+      a <a href="https://gist.github.com/">gist</a>:
+      <input type="submit" value="create paste"></span>
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 378, in id_matching
+    embs = calc_embs(image_filepaths)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 365, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 359, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 178, in resize
+    preserve_range=preserve_range)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</textarea>
+  </form>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 378, in id_matching
+    embs = calc_embs(image_filepaths)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 365, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 359, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 178, in resize
+    preserve_range=preserve_range)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))
+
+-->
+
+07:41:42 AM Extraction des régions d'intérêt :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\test_photo\\photo.png"
+
+07:41:57 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+07:43:01 AM ID Verification  :  "ID NOT MATCHING"
+
+08:00:54 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:01:37 AM ID Verification  :  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3)) // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"
+        type="text/css">
+    <!-- We need to make sure this has a favicon so that the debugger does
+         not by accident trigger a request to /favicon.ico which might
+         change the application state. -->
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script type="text/javascript">
+      var TRACEBACK = 1791237885568,
+          CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "V9QOWWIGyIKyjtK03moJ";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>ValueError</h1>
+<div class="detail">
+  <p class="errormsg">ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  
+  <ul><li><div class="frame" id="frame-1791238791912">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2464</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app` which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to applying middleware.&quot;&quot;&quot;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>
+<pre class="line after"><span class="ws">        </span>return &quot;&lt;%s %r&gt;&quot; % (self.__class__.__name__, self.name)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238793032">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2450</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238792360">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1867</em>,
+      in <code class="function">handle_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>
+<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>
+<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>
+<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>
+<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>
+<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">            </span>else:</pre>
+<pre class="line after"><span class="ws">                </span>raise e</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>
+<pre class="line after"><span class="ws">        </span>server_error = InternalServerError()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238792136">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238793256">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">2447</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238793704">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1952</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>
+<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238793928">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1821</em>,
+      in <code class="function">handle_user_exception</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>if handler is None:</pre>
+<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>
+<pre class="line after"><span class="ws">        </span>return handler(e)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Handle an exception that did not have an error handler</pre>
+<pre class="line after"><span class="ws">        </span>associated with it, or that was raised from an error handler.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790187479112">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py"</cite>,
+      line <em class="line">39</em>,
+      in <code class="function">reraise</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>import collections.abc as collections_abc</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>
+<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>
+<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>
+<pre class="line current"><span class="ws">        </span>raise value</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>else:</pre>
+<pre class="line after"><span class="ws">    </span>iterkeys = lambda d: d.iterkeys()</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238794152">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1950</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790187479224">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1936</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>getattr(rule, &quot;provide_automatic_options&quot;, False)</pre>
+<pre class="line before"><span class="ws">            </span>and req.method == &quot;OPTIONS&quot;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1790187450040">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">378</em>,
+      in <code class="function">id_matching</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>my_data = {}</pre>
+<pre class="line before"><span class="ws">        </span>#my_data.clear()</pre>
+<pre class="line before"><span class="ws">        </span>for name in names:</pre>
+<pre class="line before"><span class="ws">            </span>image_dirpath = image_dir_basepath + name</pre>
+<pre class="line before"><span class="ws">            </span>image_filepaths = [os.path.join(image_dirpath, f) for f in os.listdir(image_dirpath)]</pre>
+<pre class="line current"><span class="ws">            </span>embs = calc_embs(image_filepaths)</pre>
+<pre class="line after"><span class="ws">            </span>for i in range(len(image_filepaths)):</pre>
+<pre class="line after"><span class="ws">                </span>my_data['{}{}'.format(name, i)] = {'image_filepath' : image_filepaths[i], 'emb' : embs[i]}</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>def calc_dist(img_name0, img_name1):</pre>
+<pre class="line after"><span class="ws">            </span>return distance.euclidean(my_data[img_name0]['emb'], my_data[img_name1]['emb'])</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238793480">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">365</em>,
+      in <code class="function">calc_embs</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                </span>aligned_images.append(aligned)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">            </span>return np.array(aligned_images)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre>
+<pre class="line current"><span class="ws">            </span>aligned_images = prewhiten(load_and_align_images(filepaths, margin))</pre>
+<pre class="line after"><span class="ws">            </span>pd = []</pre>
+<pre class="line after"><span class="ws">            </span>for start in range(0, len(aligned_images), batch_size):</pre>
+<pre class="line after"><span class="ws">                </span>pd.append(model.predict_on_batch(aligned_images[start:start+batch_size]))</pre>
+<pre class="line after"><span class="ws">            </span>embs = l2_normalize(np.concatenate(pd))</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238792584">
+  <h4>File <cite class="filename">"C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py"</cite>,
+      line <em class="line">359</em>,
+      in <code class="function">load_and_align_images</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                                                 </span>scaleFactor=1.1,</pre>
+<pre class="line before"><span class="ws">                                                 </span>minNeighbors=3)</pre>
+<pre class="line before"><span class="ws">                </span>(x, y, w, h) = faces[0]</pre>
+<pre class="line before"><span class="ws">                </span>cropped = img_match[y-margin//2:y+h+margin//2,</pre>
+<pre class="line before"><span class="ws">                              </span>x-margin//2:x+w+margin//2, :]</pre>
+<pre class="line current"><span class="ws">                </span>aligned = resize(cropped, (image_size, image_size), mode='reflect')</pre>
+<pre class="line after"><span class="ws">                </span>aligned_images.append(aligned)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">            </span>return np.array(aligned_images)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>def calc_embs(filepaths, margin=10, batch_size=1):</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791238794600">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">178</em>,
+      in <code class="function">resize</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>tform.params[0, 1] = 0</pre>
+<pre class="line before"><span class="ws">        </span>tform.params[1, 0] = 0</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>out = warp(image, tform, output_shape=output_shape, order=order,</pre>
+<pre class="line before"><span class="ws">                   </span>mode=mode, cval=cval, clip=clip,</pre>
+<pre class="line current"><span class="ws">                   </span>preserve_range=preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>else:  # n-dimensional interpolation</pre>
+<pre class="line after"><span class="ws">        </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">        </span>coord_arrays = [factors[i] * (np.arange(d) + 0.5) - 0.5</pre></div>
+</div>
+
+<li><div class="frame" id="frame-1791153528000">
+  <h4>File <cite class="filename">"C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py"</cite>,
+      line <em class="line">828</em>,
+      in <code class="function">warp</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>&quot;&quot;&quot;</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>if image.size == 0:</pre>
+<pre class="line before"><span class="ws">        </span>raise ValueError(&quot;Cannot warp empty image with dimensions&quot;,</pre>
+<pre class="line current"><span class="ws">                         </span>image.shape)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>order = _validate_interpolation_order(image.dtype, order)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>image = convert_to_float(image, preserve_range)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+</ul>
+  <blockquote>ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</blockquote>
+</div>
+
+<div class="plain">
+  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">
+    <p>
+      <input type="hidden" name="language" value="pytb">
+      This is the Copy/Paste friendly version of the traceback.  <span
+      class="pastemessage">You can also paste this traceback into
+      a <a href="https://gist.github.com/">gist</a>:
+      <input type="submit" value="create paste"></span>
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py&quot;, line 39, in reraise
+    raise value
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py&quot;, line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 378, in id_matching
+    embs = calc_embs(image_filepaths)
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 365, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File &quot;C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py&quot;, line 359, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 178, in resize
+    preserve_range=preserve_range)
+  File &quot;C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py&quot;, line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))</textarea>
+  </form>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 378, in id_matching
+    embs = calc_embs(image_filepaths)
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 365, in calc_embs
+    aligned_images = prewhiten(load_and_align_images(filepaths, margin))
+  File "C:\Users\a776942\Desktop\practise\darkflow\cni_extract.py", line 359, in load_and_align_images
+    aligned = resize(cropped, (image_size, image_size), mode='reflect')
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 178, in resize
+    preserve_range=preserve_range)
+  File "C:\Users\a776942\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\transform\_warps.py", line 828, in warp
+    image.shape)
+ValueError: ('Cannot warp empty image with dimensions', (0, 0, 3))
+
+-->
+
+08:03:38 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:04:50 AM ID Verification  :  "ID NOT MATCHING"
+
+08:09:24 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:10:39 AM ID Verification  :  "ID NOT MATCHING"
+
+08:20:08 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:21:34 AM ID Verification  :  "ID NOT MATCHING"
+
+08:28:55 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:31:58 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:33:28 AM ID Verification  :  "ID NOT MATCHING"
+
+08:40:43 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:42:56 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:45:36 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:47:21 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:47:47 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+08:52:46 AM Les selfies sont enregistrés dans le dossier :  "C:\\Users\\a776942\\Desktop\\practise\\darkflow\\images\\selfie"
+
+08:54:27 AM ID Verification  :  "ID MATCHING TO SELFIE"
+
+08:54:56 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<DossierLogs>C:\Users\a776942\Desktop\CNI_Extract\Logs</DossierLogs>
+	
+	<Dossier_CNI>C:\Users\a776942\Desktop\CNI_Extract\CNI</Dossier_CNI>
+
+	<Dossier_CNI_cleanless>C:\Users\a776942\Desktop\CNI_Extract\CNI\cleanless</Dossier_CNI_cleanless>
+	
+	<Path_Excel>C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx</Path_Excel>
+
+	<LaboOnline>C:\Users\a776942\Desktop\CNI_Extract\Test\LaboOnline.xlsx</LaboOnline>
+
+	<Path_Word>C:\Users\a776942\Desktop\CNI_Extract\KYCfiles</Path_Word>
+
+	<emailConseiller>moustapha.diop@atos.net</emailConseiller>
+
+	<emailAMLO>taphadiop999@gmail.com</emailAMLO>
+	
+	<Link_Form>https://forms.office.com/Pages/ResponsePage.aspx?id=xg9EM8e3LEG7cw5wsBmNWl57RvErnQlDi6i-iJ0QDctUMllVUDEzUkRUQ0tNOEVNUTBDOFNVNjc5Vy4u</Link_Form>
+</config>
+

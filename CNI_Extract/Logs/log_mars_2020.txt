@@ -1,0 +1,1183 @@
+16:52:58 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+16:53:00 PM   Erreur lors de l'ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+16:53:01 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:59:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:59:50 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:00:32 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:26:45 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:26:47 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:35:17 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:35:19 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:50:58 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:51:00 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:51:17 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:51:32 AM   ***********************************************************
+10:51:32 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:51:33 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:52:00 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:58:46 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:58:47 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:33:39 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:33:40 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:33:52 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:34:04 AM   ***********************************************************
+11:34:05 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:34:06 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:34:31 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:34:43 AM   ***********************************************************
+11:34:43 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:34:44 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:34:59 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:05:28 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:05:30 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:05:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:06:07 PM   ***********************************************************
+12:06:07 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:06:08 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:06:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:10:45 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:10:47 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:11:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:11:15 PM   ***********************************************************
+12:11:15 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:11:15 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:11:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:15:32 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:15:34 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:15:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:16:19 PM   ***********************************************************
+12:16:19 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:16:20 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:16:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:16:45 PM   ***********************************************************
+12:16:45 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:16:46 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:16:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:35:27 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:35:28 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:35:43 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:36:21 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:36:22 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:36:36 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:48:02 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:48:04 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:48:21 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:49:29 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:49:31 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:49:46 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:49:49 PM   ***********************************************************
+12:49:49 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:49:50 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:50:03 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:50:10 PM   ***********************************************************
+12:50:10 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:50:12 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:50:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:50:29 PM   ***********************************************************
+12:50:29 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:50:30 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:50:39 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:50:46 PM   ***********************************************************
+12:50:46 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:50:48 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:50:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:51:02 PM   ***********************************************************
+12:51:02 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:51:04 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:51:17 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:51:23 PM   ***********************************************************
+12:51:23 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:51:25 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:51:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:51:41 PM   ***********************************************************
+15:14:06 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:14:07 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:15:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:15:55 PM   ***********************************************************
+15:15:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:19:50 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:19:52 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:20:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:20:08 PM   ***********************************************************
+15:20:08 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:20:09 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:20:20 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:20:26 PM   ***********************************************************
+15:20:26 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:20:27 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:20:37 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:20:44 PM   ***********************************************************
+15:20:44 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:20:45 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:20:54 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:21:00 PM   ***********************************************************
+15:21:00 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:21:03 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:21:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:21:16 PM   ***********************************************************
+15:21:16 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:21:18 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:21:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:21:37 PM   ***********************************************************
+15:21:37 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:21:39 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:21:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:21:54 PM   ***********************************************************
+17:26:31 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+17:26:32 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+17:26:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:27:18 PM   ***********************************************************
+17:27:18 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+17:27:22 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+17:27:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:27:41 PM   ***********************************************************
+17:27:41 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+17:27:42 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+17:27:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:27:57 PM   ***********************************************************
+17:27:57 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+17:27:57 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+17:28:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:28:13 PM   ***********************************************************
+17:28:13 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+17:28:15 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+17:28:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:28:28 PM   ***********************************************************
+17:28:28 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+17:28:31 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+17:28:42 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:28:49 PM   ***********************************************************
+17:28:49 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+17:28:51 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+17:28:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:29:05 PM   ***********************************************************
+17:53:09 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+17:53:11 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+17:53:23 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:53:27 PM   ***********************************************************
+17:53:27 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+17:53:27 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+17:53:41 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:53:44 PM   ***********************************************************
+17:53:44 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+17:53:45 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+17:53:58 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:54:02 PM   ***********************************************************
+17:54:02 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+17:54:02 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+17:54:16 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:54:19 PM   ***********************************************************
+17:54:19 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+17:54:20 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+17:54:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:54:35 PM   ***********************************************************
+17:54:35 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+17:54:35 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+17:54:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:54:54 PM   ***********************************************************
+17:54:54 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+17:54:54 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+17:55:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+17:55:11 PM   ***********************************************************
+09:47:20 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:47:22 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:47:54 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:49:00 AM   ***********************************************************
+09:49:00 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+09:49:01 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+09:49:28 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:49:31 AM   ***********************************************************
+09:49:31 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+09:49:32 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+09:49:53 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:49:56 AM   ***********************************************************
+09:49:56 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+09:49:57 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+09:50:21 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:50:24 AM   ***********************************************************
+09:50:24 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+09:50:25 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+09:50:43 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:50:46 AM   ***********************************************************
+09:50:46 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+09:50:47 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+09:51:10 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:51:13 AM   ***********************************************************
+09:51:13 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+09:51:13 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+09:51:32 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:51:35 AM   ***********************************************************
+10:31:23 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:31:25 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:31:54 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:31:58 AM   ***********************************************************
+10:31:58 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:31:59 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:32:21 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:32:24 AM   ***********************************************************
+10:32:24 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:32:25 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:32:45 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:32:48 AM   ***********************************************************
+10:32:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:32:49 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:33:09 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:33:12 AM   ***********************************************************
+10:33:12 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+10:33:13 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+10:33:30 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:13:02 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:13:04 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:13:26 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:13:30 AM   ***********************************************************
+11:13:30 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:13:31 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:30:24 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:30:26 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:30:42 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:30:46 AM   ***********************************************************
+11:30:46 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:30:47 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:31:04 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:33:42 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:33:43 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:34:10 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:35:07 AM   ***********************************************************
+11:35:07 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:35:08 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:35:25 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:35:28 AM   ***********************************************************
+11:35:28 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:35:28 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:35:39 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:35:42 AM   ***********************************************************
+11:35:42 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+11:35:42 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+11:35:53 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:35:56 AM   ***********************************************************
+11:35:56 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+11:35:57 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+11:36:08 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:36:11 AM   ***********************************************************
+11:36:11 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+11:36:12 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+11:36:31 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:36:33 AM   ***********************************************************
+11:36:33 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+11:36:34 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+11:36:49 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:36:52 AM   ***********************************************************
+10:28:06 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:28:08 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+08:56:43 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+08:56:45 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+08:58:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+08:58:49 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+08:59:47 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:25:32 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:25:33 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:25:50 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:26:05 AM   ***********************************************************
+09:26:05 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+09:26:06 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+09:26:31 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:59:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:59:49 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:03:05 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:03:42 AM   ***********************************************************
+10:03:42 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:03:43 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:04:02 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:05:47 AM   ***********************************************************
+10:05:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:05:48 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:06:04 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:06:15 AM   ***********************************************************
+10:06:15 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:06:16 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:06:29 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:06:39 AM   ***********************************************************
+10:06:39 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+10:06:40 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+10:06:54 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:07:04 AM   ***********************************************************
+10:07:04 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+10:07:05 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+10:07:20 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:07:32 AM   ***********************************************************
+10:07:33 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+10:07:33 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+10:07:50 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:30:49 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:30:50 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:31:53 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:32:01 AM   ***********************************************************
+10:38:03 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:38:04 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:38:23 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:38:30 AM   ***********************************************************
+10:40:04 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:40:05 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:40:43 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:40:49 AM   ***********************************************************
+10:43:24 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:43:25 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:46:17 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:46:23 AM   ***********************************************************
+10:55:17 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:55:19 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:57:34 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:57:41 AM   ***********************************************************
+10:59:40 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:59:41 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:00:37 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:00:38 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:01:19 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:01:26 AM   ***********************************************************
+11:03:24 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:03:26 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:03:44 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:03:50 AM   ***********************************************************
+11:06:37 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:06:38 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+11:06:54 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:07:00 AM   ***********************************************************
+11:11:01 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:11:03 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:11:25 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:01:46 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:01:48 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:02:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:03:00 PM   ***********************************************************
+14:59:35 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+14:59:37 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+14:59:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:59:59 PM   ***********************************************************
+15:33:43 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:33:44 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:34:52 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:40:10 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:40:11 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:40:39 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:40:54 PM   ***********************************************************
+10:32:47 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:32:49 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:34:12 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:34:14 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:36:57 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:36:59 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:45:02 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:45:04 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:45:38 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:46:37 AM   ***********************************************************
+10:46:37 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:46:38 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:07:49 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:07:50 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:09:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:10:05 PM   ***********************************************************
+15:10:05 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:10:05 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:12:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:12:12 PM   ***********************************************************
+15:12:12 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:12:13 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:13:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:13:17 PM   ***********************************************************
+15:13:17 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:13:18 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:13:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:13:58 PM   ***********************************************************
+15:13:58 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:13:59 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:14:21 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:14:33 PM   ***********************************************************
+15:14:33 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:14:34 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:14:57 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:15:09 PM   ***********************************************************
+15:15:09 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:15:10 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:15:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:15:32 PM   ***********************************************************
+15:26:15 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:26:17 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:26:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:26:44 PM   ***********************************************************
+15:26:44 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:26:45 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:26:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:27:06 PM   ***********************************************************
+15:27:06 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:27:07 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:27:23 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:27:34 PM   ***********************************************************
+15:27:34 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:27:35 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:27:46 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:27:55 PM   ***********************************************************
+15:27:56 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:27:56 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:28:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:29:52 PM   ***********************************************************
+15:29:52 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:29:53 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:30:07 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:30:17 PM   ***********************************************************
+15:30:18 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:30:18 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:30:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:30:38 PM   ***********************************************************
+15:31:51 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:31:53 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:32:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:33:59 PM   ***********************************************************
+15:33:59 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:34:00 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+15:34:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:34:42 PM   ***********************************************************
+15:34:43 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:34:43 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:35:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:35:40 PM   ***********************************************************
+15:35:40 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:35:40 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:35:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:36:07 PM   ***********************************************************
+15:36:07 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:36:08 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:36:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:36:33 PM   ***********************************************************
+15:36:33 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:36:34 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+15:36:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:36:55 PM   ***********************************************************
+15:36:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:36:56 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+15:37:14 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:37:22 PM   ***********************************************************
+09:33:21 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:33:23 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:34:13 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:34:40 AM   ***********************************************************
+09:34:41 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+09:34:42 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+09:35:30 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:35:43 AM   ***********************************************************
+09:35:44 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+09:35:45 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+09:36:19 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:36:33 AM   ***********************************************************
+09:36:33 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+09:36:34 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+09:36:52 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:37:05 AM   ***********************************************************
+09:37:05 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+09:37:06 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+09:38:03 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:39:19 AM   ***********************************************************
+09:39:19 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+09:39:20 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+09:44:42 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:44:58 AM   ***********************************************************
+09:44:58 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+09:44:59 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+09:45:38 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+09:45:55 AM   ***********************************************************
+09:51:36 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:51:38 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:52:13 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:52:14 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:53:29 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:53:30 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:55:22 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:55:24 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+09:59:59 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:00:01 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:01:22 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:01:24 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:08:55 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:09:08 AM   ***********************************************************
+10:09:08 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:09:09 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+10:09:25 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:09:35 AM   ***********************************************************
+10:09:36 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:09:36 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:10:23 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:10:41 AM   ***********************************************************
+10:10:41 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:10:42 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:11:03 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:30:54 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:30:56 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:31:32 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:31:33 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:34:59 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:35:00 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:35:14 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:35:29 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:35:30 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:36:57 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:38:52 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:38:53 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:44:07 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:56:33 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:56:35 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:03:31 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:03:33 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:04:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:04:27 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:04:28 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:05:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:05:21 PM   ***********************************************************
+12:05:21 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:05:22 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:05:46 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:05:54 PM   ***********************************************************
+12:05:54 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:05:55 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:06:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:06:43 PM   ***********************************************************
+12:06:43 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:06:44 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:07:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:07:13 PM   ***********************************************************
+12:07:13 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:07:14 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:07:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:07:40 PM   ***********************************************************
+12:07:40 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:07:41 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:08:16 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:08:22 PM   ***********************************************************
+12:08:22 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:08:23 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:09:00 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:09:07 PM   ***********************************************************
+12:10:28 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:10:29 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:10:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:11:10 PM   ***********************************************************
+12:11:10 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:11:11 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:11:44 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:11:51 PM   ***********************************************************
+12:11:51 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:11:52 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:12:07 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:12:17 PM   ***********************************************************
+12:12:17 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:12:18 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:12:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:13:12 PM   ***********************************************************
+12:13:12 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:13:13 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:16:29 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:16:55 PM   ***********************************************************
+12:16:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:16:56 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:17:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:17:39 PM   ***********************************************************
+12:17:39 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:17:40 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:18:09 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:18:16 PM   ***********************************************************
+12:20:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:20:56 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:22:23 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:22:24 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+12:23:27 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:24:00 PM   ***********************************************************
+12:24:00 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:24:01 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:24:58 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:25:10 PM   ***********************************************************
+12:25:10 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:25:11 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+12:25:43 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:26:01 PM   ***********************************************************
+12:26:01 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:26:02 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+12:26:31 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:26:43 PM   ***********************************************************
+12:26:43 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:26:44 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+12:27:23 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:27:31 PM   ***********************************************************
+12:27:32 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:27:33 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\KA .pdf
+12:28:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:28:54 PM   ***********************************************************
+12:28:54 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:28:55 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\Recto CNI.pdf
+12:29:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+12:29:53 PM   ***********************************************************
+14:17:00 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+14:17:02 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+14:17:37 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:23:42 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+14:23:44 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+14:24:03 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:24:31 PM   ***********************************************************
+14:24:31 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+14:24:32 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+14:24:47 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:25:01 PM   ***********************************************************
+14:25:01 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+14:25:02 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+14:25:18 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:25:28 PM   ***********************************************************
+14:25:28 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+14:25:29 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+14:25:41 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:25:53 PM   ***********************************************************
+14:25:53 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\CNI Kaediatou KA .pdf
+14:25:54 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\CNI Kaediatou KA .pdf
+14:26:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:26:16 PM   ***********************************************************
+14:26:17 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\KA .pdf
+14:26:18 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\KA .pdf
+14:26:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:28:03 PM   ***********************************************************
+14:28:03 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\Recto CNI.pdf
+14:28:04 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\Recto CNI.pdf
+14:28:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+14:28:30 PM   ***********************************************************
+15:20:24 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:20:27 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:20:58 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:20:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:22:43 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:22:45 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:23:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:23:34 PM   ***********************************************************
+15:23:34 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:23:35 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:23:57 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:24:06 PM   ***********************************************************
+15:24:06 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:24:08 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:24:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:24:41 PM   ***********************************************************
+15:24:41 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:24:42 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:26:41 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:26:43 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:27:16 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:27:18 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:27:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:28:06 PM   ***********************************************************
+15:28:06 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:28:08 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:28:29 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:28:39 PM   ***********************************************************
+15:28:40 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:28:41 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:29:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:29:11 PM   ***********************************************************
+15:29:11 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:29:13 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:29:33 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:31:36 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:31:39 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:31:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:34:38 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:34:40 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:34:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:44:53 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:44:54 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:45:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:45:22 PM   ***********************************************************
+15:45:23 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:45:24 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+15:45:36 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:45:46 PM   ***********************************************************
+15:45:46 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:45:48 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+15:45:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:46:08 PM   ***********************************************************
+15:46:09 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:46:10 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+15:46:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:46:33 PM   ***********************************************************
+15:46:33 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\CNI Kaediatou KA .pdf
+15:46:35 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cleanless\CNI Kaediatou KA .pdf
+15:47:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:58:04 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:58:06 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:58:27 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+15:59:33 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:59:34 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+15:59:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+16:00:04 PM   ***********************************************************
+16:00:05 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+16:00:06 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+16:00:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+16:00:36 PM   ***********************************************************
+16:00:36 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+16:00:37 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+16:00:49 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+16:02:16 PM   ***********************************************************
+16:02:16 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+16:02:17 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+16:02:37 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+19:30:44 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:30:46 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:31:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+19:31:35 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:31:37 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:31:55 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+19:32:19 PM   ***********************************************************
+19:40:54 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:40:55 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+20:36:44 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:37:01 PM   ***********************************************************
+20:39:32 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+20:39:34 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+20:48:00 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:48:22 PM   ***********************************************************
+20:48:27 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+20:48:29 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+20:50:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:50:20 PM   ***********************************************************
+20:50:31 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+20:50:33 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+20:50:49 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:51:04 PM   ***********************************************************
+20:51:15 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:51:20 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:52:09 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:52:19 PM   ***********************************************************
+21:12:01 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+21:12:03 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+21:12:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+21:13:07 PM   ***********************************************************
+21:13:09 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+21:13:10 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+21:14:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+21:14:15 PM   ***********************************************************
+21:14:16 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+21:14:17 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+21:14:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+21:14:55 PM   ***********************************************************
+21:14:56 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+21:14:57 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+21:15:35 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+21:15:59 PM   ***********************************************************
+23:03:48 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:03:50 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:04:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:04:53 PM   ***********************************************************
+23:04:58 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+23:05:03 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+23:05:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:05:45 PM   ***********************************************************
+23:05:59 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+23:06:00 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+23:06:21 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:15:23 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:15:25 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:15:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:15:54 PM   ***********************************************************
+23:16:01 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+23:16:05 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+23:16:18 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:16:34 PM   ***********************************************************
+23:16:49 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+23:16:52 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+23:17:07 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:17:18 PM   ***********************************************************
+23:17:36 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+23:17:37 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+23:17:52 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:18:02 PM   ***********************************************************
+23:27:05 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:27:07 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:27:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:27:50 PM   ***********************************************************
+23:33:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:33:57 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:34:14 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:34:23 PM   ***********************************************************
+23:41:15 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:41:17 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:42:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:42:55 PM   ***********************************************************
+23:46:42 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:46:43 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:55:36 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:55:49 PM   ***********************************************************
+23:56:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:56:57 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:57:14 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:57:33 PM   ***********************************************************
+00:03:21 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:03:23 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:03:43 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:04:00 AM   ***********************************************************
+00:12:15 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:12:17 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:12:34 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:19:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:19:50 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:20:06 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:20:23 AM   ***********************************************************
+00:27:03 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:27:05 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:27:21 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:27:31 AM   ***********************************************************
+00:28:41 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:28:43 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:28:58 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:29:09 AM   ***********************************************************
+00:32:17 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:32:19 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:32:34 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:32:47 AM   ***********************************************************
+00:33:30 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:33:31 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:33:48 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:33:58 AM   ***********************************************************
+00:39:29 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:39:31 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:39:56 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:40:24 AM   ***********************************************************
+00:40:44 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:43:34 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:43:36 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:43:53 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:44:05 AM   ***********************************************************
+00:44:22 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:44:23 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:44:36 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:44:45 AM   ***********************************************************
+00:45:01 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+00:45:02 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+00:45:15 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:45:24 AM   ***********************************************************
+00:45:39 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+00:45:40 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+00:45:57 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:46:06 AM   ***********************************************************
+00:57:58 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:58:00 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:58:19 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:58:29 AM   ***********************************************************
+00:58:42 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:58:44 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:58:56 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:59:05 AM   ***********************************************************
+00:59:17 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+00:59:18 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+00:59:30 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:59:39 AM   ***********************************************************
+00:59:51 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+00:59:52 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+01:00:06 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:00:16 AM   ***********************************************************
+01:02:21 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:02:23 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:02:39 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:04:03 AM   ***********************************************************
+01:04:19 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+01:04:20 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+01:04:36 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:20:18 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:20:20 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:20:35 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:20:48 AM   ***********************************************************
+01:21:03 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+01:21:06 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+01:21:19 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:21:29 AM   ***********************************************************
+01:21:40 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:21:41 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:21:53 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:22:03 AM   ***********************************************************
+01:22:16 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+01:22:19 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+01:22:27 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:24:17 AM   ***********************************************************
+01:33:01 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:33:03 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:33:21 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:33:40 AM   ***********************************************************
+01:41:41 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:41:42 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+01:41:52 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:42:34 AM   ***********************************************************
+01:42:47 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+01:42:49 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+01:43:03 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:44:24 AM   ***********************************************************
+01:44:35 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:44:36 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:44:52 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:45:00 AM   ***********************************************************
+01:45:12 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+01:45:13 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+01:45:22 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:45:31 AM   ***********************************************************
+16:00:13 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+16:00:14 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+16:00:35 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+16:00:59 PM   ***********************************************************
+16:09:47 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+16:09:48 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+16:09:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+16:10:11 PM   ***********************************************************
+23:58:25 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:58:28 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:58:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:05:08 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:05:10 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:05:19 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:10:09 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:10:10 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+00:10:18 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:10:50 AM   ***********************************************************
+00:10:51 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:10:52 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+00:10:59 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:12:17 AM   ***********************************************************
+00:12:17 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+00:12:18 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+00:12:27 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:12:41 AM   ***********************************************************
+00:12:41 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+00:12:42 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+00:12:49 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+00:13:18 AM   ***********************************************************
+19:54:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:54:57 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+19:55:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+19:55:32 PM   ***********************************************************
+19:58:17 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+19:58:19 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+19:58:27 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+19:58:35 PM   ***********************************************************
+20:02:06 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+20:02:08 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+20:02:16 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:02:26 PM   ***********************************************************
+20:03:25 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+20:03:26 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+20:03:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:03:42 PM   ***********************************************************
+20:07:01 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+20:07:03 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+20:07:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:07:20 PM   ***********************************************************
+20:08:59 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:09:01 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:09:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:09:17 PM   ***********************************************************
+20:17:22 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:17:23 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:17:31 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:19:57 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:19:59 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:20:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:20:29 PM   ***********************************************************
+20:26:42 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:26:43 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:26:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:27:00 PM   ***********************************************************
+20:30:57 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:30:58 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:31:05 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:31:17 PM   ***********************************************************
+20:32:25 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+20:32:27 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+20:32:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:32:45 PM   ***********************************************************
+20:32:45 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:32:46 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+20:32:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+20:34:13 PM   ***********************************************************
+23:47:08 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:47:09 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+23:47:19 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:47:56 PM   ***********************************************************
+23:48:15 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+23:48:16 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+23:48:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+23:49:49 PM   ***********************************************************
+23:49:53 PM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+23:49:54 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+23:50:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:45:48 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:45:50 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:45:59 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:46:25 AM   ***********************************************************
+01:53:23 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:53:24 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:53:33 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:53:47 AM   ***********************************************************
+01:54:29 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:54:31 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:54:41 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:54:50 AM   ***********************************************************
+01:57:34 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:57:35 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+01:57:44 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+01:57:53 AM   ***********************************************************
+02:06:49 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:06:50 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:07:00 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:07:09 AM   ***********************************************************
+02:08:47 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:08:49 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:08:58 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:09:10 AM   ***********************************************************
+02:16:42 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:16:44 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:16:52 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:17:01 AM   ***********************************************************
+02:25:25 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:25:26 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:25:35 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:25:43 AM   ***********************************************************
+02:28:04 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:28:06 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:28:15 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:28:32 AM   ***********************************************************
+02:50:41 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:50:43 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:50:52 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:51:01 AM   ***********************************************************
+02:56:52 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:56:53 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+02:57:00 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+02:58:11 AM   ***********************************************************
+03:30:50 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+03:30:52 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+03:30:59 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+03:31:11 AM   ***********************************************************
+03:31:32 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+03:31:34 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+03:31:38 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+03:31:48 AM   ***********************************************************
+03:43:13 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+03:43:15 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+03:43:22 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+03:43:32 AM   ***********************************************************
+03:43:50 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+03:43:50 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+03:43:55 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+03:44:03 AM   ***********************************************************
+03:53:23 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+03:53:24 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+03:53:32 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+03:53:44 AM   ***********************************************************
+03:54:07 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+03:54:08 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+03:54:13 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+03:55:19 AM   ***********************************************************
+04:00:05 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+04:00:06 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+04:00:14 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+04:00:23 AM   ***********************************************************
+04:00:45 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+04:00:46 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+04:00:51 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+04:01:00 AM   ***********************************************************
+10:11:39 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:11:41 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+10:11:49 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:13:38 AM   ***********************************************************
+10:14:30 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:14:46 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+10:14:54 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:15:26 AM   ***********************************************************
+10:15:54 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:15:55 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+10:16:02 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:16:16 AM   ***********************************************************
+10:17:29 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+10:17:30 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+10:17:38 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+10:18:09 AM   ***********************************************************
+11:06:06 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:06:07 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\CIN(1).pdf
+11:06:16 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:06:32 AM   ***********************************************************
+11:07:02 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:07:03 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse.pdf
+11:07:09 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:09:02 AM   ***********************************************************
+11:09:27 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+11:09:28 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse000.pdf
+11:09:36 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:09:51 AM   ***********************************************************
+11:10:15 AM   Ouverture du fichier C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+11:10:16 AM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\bank project\CNI_Extract\CNI\cni sse001.pdf
+11:10:21 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\bank project\CNI_Extract\Test\new_clients.xlsx
+11:10:35 AM   ***********************************************************
+18:18:48 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:18:50 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:19:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+18:19:34 PM   ***********************************************************
+18:33:03 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:33:04 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:33:13 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+18:33:32 PM   ***********************************************************
+18:37:05 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:37:06 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:37:37 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+18:37:52 PM   ***********************************************************
+18:37:59 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+18:37:59 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+18:38:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+18:44:22 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:44:23 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:45:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+18:45:18 PM   ***********************************************************
+18:59:13 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:59:15 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+18:59:33 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+18:59:57 PM   ***********************************************************
+19:02:01 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+19:02:03 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+19:03:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+19:03:53 PM   ***********************************************************
+19:58:26 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+19:58:28 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+19:59:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+19:59:34 PM   ***********************************************************
+20:00:18 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+20:00:23 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+20:00:39 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:00:51 PM   ***********************************************************
+20:12:24 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+20:12:25 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+20:12:38 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:13:02 PM   ***********************************************************
+20:13:46 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+20:13:47 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+20:14:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:14:16 PM   ***********************************************************
+20:14:45 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse000.pdf
+20:14:46 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse000.pdf
+20:15:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:17:38 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+20:17:40 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+20:17:54 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:18:07 PM   ***********************************************************
+20:19:02 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+20:19:03 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse.pdf
+20:52:07 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:52:18 PM   ***********************************************************
+20:52:55 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse000.pdf
+20:52:56 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse000.pdf
+20:54:04 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:54:12 PM   ***********************************************************
+20:54:37 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse001.pdf
+20:54:38 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\cni sse001.pdf
+20:56:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+20:56:36 PM   ***********************************************************
+15:27:11 PM   Ouverture du fichier C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+15:27:13 PM   Resuperation des informations du fichier  C:\Users\a776942\Desktop\CNI_Extract\CNI\CIN(1).pdf
+15:27:23 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+15:27:47 PM   ***********************************************************

@@ -1,0 +1,5 @@
+07:46:34 AM Echec de l'OCR sur le nom :  
+08:03:17 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+23:36:29 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+03:21:34 AM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\a776942\Desktop\CNI_Extract\Test\new_clients.xlsx
+08:33:44 AM Echec de l'OCR sur le nom :  

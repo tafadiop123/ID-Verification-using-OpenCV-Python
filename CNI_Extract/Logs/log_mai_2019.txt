@@ -1,0 +1,749 @@
+﻿15:02:25 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:02:26 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:02:34 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:02:38 PM   ***********************************************************
+15:02:38 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:02:39 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:02:47 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:02:50 PM   ***********************************************************
+15:02:50 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:02:54 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:02:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:03:02 PM   ***********************************************************
+15:04:12 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:04:12 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:04:18 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:04:22 PM   ***********************************************************
+15:04:22 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:04:23 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:04:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:04:31 PM   ***********************************************************
+15:04:31 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:04:32 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:04:36 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:04:40 PM   ***********************************************************
+15:05:07 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:05:08 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:05:13 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:05:17 PM   ***********************************************************
+15:05:17 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:05:17 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:05:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:05:26 PM   ***********************************************************
+15:05:26 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:05:26 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:05:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:05:36 PM   ***********************************************************
+15:06:14 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:06:15 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:06:20 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:06:24 PM   ***********************************************************
+15:06:24 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:06:25 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:06:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:06:34 PM   ***********************************************************
+15:06:34 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:06:39 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:06:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:06:49 PM   ***********************************************************
+15:08:12 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:08:12 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:08:17 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:08:20 PM   ***********************************************************
+15:08:20 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:08:21 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:08:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:08:29 PM   ***********************************************************
+15:08:29 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:08:34 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:08:36 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:08:36 PM   ***********************************************************
+15:24:09 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:24:10 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:24:14 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:24:18 PM   ***********************************************************
+15:24:18 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:24:18 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:24:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:24:26 PM   ***********************************************************
+15:24:26 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:24:29 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:24:31 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:24:31 PM   ***********************************************************
+15:31:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:31:46 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:31:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:31:50 PM   ***********************************************************
+15:31:50 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:31:50 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:31:54 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:31:54 PM   ***********************************************************
+15:31:54 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:31:54 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:31:56 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:31:56 PM   ***********************************************************
+15:32:49 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:32:49 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:32:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:32:54 PM   ***********************************************************
+15:32:54 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:32:54 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:32:58 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:32:58 PM   ***********************************************************
+15:32:58 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:32:58 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:33:00 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:33:00 PM   ***********************************************************
+15:34:54 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:34:54 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:35:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:35:01 PM   ***********************************************************
+15:35:01 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:35:01 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:35:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:35:07 PM   ***********************************************************
+15:35:07 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:35:07 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:35:12 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:35:13 PM   ***********************************************************
+15:36:12 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:36:12 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:36:14 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:36:14 PM   ***********************************************************
+15:36:14 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:36:14 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:36:15 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:36:15 PM   ***********************************************************
+15:36:15 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:36:15 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:36:16 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:36:16 PM   ***********************************************************
+15:36:57 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:36:57 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:37:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:37:02 PM   ***********************************************************
+15:37:02 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:37:02 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:37:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:37:06 PM   ***********************************************************
+15:37:06 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:37:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:37:08 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:37:08 PM   ***********************************************************
+15:37:48 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:37:48 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:37:52 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:37:53 PM   ***********************************************************
+15:37:53 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:37:53 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:37:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:37:57 PM   ***********************************************************
+15:37:57 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:37:57 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:38:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:38:41 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:38:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:38:45 PM   ***********************************************************
+15:38:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:38:46 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:38:49 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:38:50 PM   ***********************************************************
+15:38:50 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:38:50 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:39:56 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:39:56 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:40:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:40:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:41:28 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:41:28 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:41:55 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:41:56 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:42:58 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:42:59 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:43:04 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:43:05 PM   ***********************************************************
+15:43:05 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:43:05 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:43:09 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:43:09 PM   ***********************************************************
+15:43:09 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:43:09 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:43:12 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:43:13 PM   ***********************************************************
+15:45:00 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:45:01 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:45:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:45:10 PM   ***********************************************************
+15:45:10 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:45:16 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:45:20 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:45:24 PM   ***********************************************************
+15:45:24 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:45:24 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:45:27 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:45:31 PM   ***********************************************************
+15:47:39 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:47:39 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:47:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:47:45 PM   ***********************************************************
+15:47:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:47:46 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:47:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:47:50 PM   ***********************************************************
+15:47:50 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:47:50 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:47:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:47:54 PM   ***********************************************************
+15:52:34 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:52:34 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:52:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:52:40 PM   ***********************************************************
+15:52:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:52:40 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:52:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:52:45 PM   ***********************************************************
+15:52:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:52:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:52:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:52:49 PM   ***********************************************************
+15:56:39 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:56:40 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:56:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:56:46 PM   ***********************************************************
+15:56:46 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:56:46 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:57:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:57:01 PM   ***********************************************************
+15:57:01 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:57:02 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:57:05 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:57:06 PM   ***********************************************************
+15:57:55 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:57:55 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:58:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:58:01 PM   ***********************************************************
+15:58:01 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:58:01 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:58:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:58:06 PM   ***********************************************************
+15:58:06 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:58:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:58:09 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:58:09 PM   ***********************************************************
+15:59:43 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:59:44 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+15:59:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:59:50 PM   ***********************************************************
+15:59:50 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:59:50 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+15:59:55 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:59:55 PM   ***********************************************************
+15:59:55 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:59:55 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+15:59:58 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+15:59:58 PM   ***********************************************************
+16:03:31 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:03:32 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:03:37 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:03:37 PM   ***********************************************************
+16:03:37 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:03:37 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:03:42 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:03:42 PM   ***********************************************************
+16:03:42 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:03:43 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:03:46 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:03:46 PM   ***********************************************************
+16:05:06 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:05:07 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:05:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:05:14 PM   ***********************************************************
+16:05:14 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:05:14 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:05:19 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:05:22 PM   ***********************************************************
+16:05:23 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:05:27 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:05:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:05:33 PM   ***********************************************************
+16:07:55 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:07:56 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:08:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:08:04 PM   ***********************************************************
+16:08:04 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:08:05 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:08:09 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:08:12 PM   ***********************************************************
+16:08:12 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:08:12 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:08:15 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:08:19 PM   ***********************************************************
+16:09:35 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:09:35 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:09:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:09:44 PM   ***********************************************************
+16:09:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:09:44 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:09:49 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:09:52 PM   ***********************************************************
+16:09:52 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:09:52 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:09:55 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:09:59 PM   ***********************************************************
+16:11:05 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:11:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:11:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:11:14 PM   ***********************************************************
+16:11:14 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:11:15 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:11:19 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:11:22 PM   ***********************************************************
+16:11:22 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:11:22 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:11:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:11:29 PM   ***********************************************************
+16:12:22 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:12:22 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:12:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:28 PM   ***********************************************************
+16:12:28 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:12:29 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:12:35 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:35 PM   ***********************************************************
+16:12:35 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:12:35 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:12:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:40 PM   ***********************************************************
+16:12:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:12:40 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:12:44 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:45 PM   ***********************************************************
+16:12:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:12:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:12:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:48 PM   ***********************************************************
+16:12:48 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:12:48 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:12:54 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:54 PM   ***********************************************************
+16:12:54 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:12:55 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:12:58 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:12:58 PM   ***********************************************************
+16:14:36 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:14:37 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:14:45 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:14:45 PM   ***********************************************************
+16:14:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:14:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:14:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:14:53 PM   ***********************************************************
+16:14:53 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:14:53 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:14:59 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:14:59 PM   ***********************************************************
+16:14:59 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:14:59 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:15:05 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:15:06 PM   ***********************************************************
+16:15:06 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:15:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:15:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:15:11 PM   ***********************************************************
+16:15:11 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:15:11 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:15:18 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:15:18 PM   ***********************************************************
+16:15:18 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:15:19 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:15:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:15:26 PM   ***********************************************************
+16:16:05 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:16:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:16:12 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:12 PM   ***********************************************************
+16:16:12 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:16:13 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:16:19 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:19 PM   ***********************************************************
+16:16:19 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:16:19 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:16:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:24 PM   ***********************************************************
+16:16:24 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:16:24 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:16:29 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:29 PM   ***********************************************************
+16:16:29 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:16:29 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:16:33 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:33 PM   ***********************************************************
+16:16:33 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:16:33 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:16:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:40 PM   ***********************************************************
+16:16:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:16:40 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:16:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:16:48 PM   ***********************************************************
+16:20:46 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:20:47 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:20:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:20:56 PM   ***********************************************************
+16:20:56 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:20:57 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:21:05 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:21:08 PM   ***********************************************************
+16:21:08 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:21:08 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:21:13 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:21:16 PM   ***********************************************************
+16:21:16 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:21:17 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:21:21 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:21:24 PM   ***********************************************************
+16:21:24 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:21:25 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:21:29 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:21:33 PM   ***********************************************************
+16:21:33 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:21:33 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:21:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:21:44 PM   ***********************************************************
+16:21:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:21:44 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:21:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:21:53 PM   ***********************************************************
+16:28:55 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:28:55 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:29:02 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:29:06 PM   ***********************************************************
+16:29:06 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:29:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:29:13 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:29:17 PM   ***********************************************************
+16:29:17 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:29:17 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:29:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:29:27 PM   ***********************************************************
+16:29:27 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:29:28 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:29:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:29:36 PM   ***********************************************************
+16:29:36 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:29:36 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:29:42 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:29:46 PM   ***********************************************************
+16:29:46 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:29:46 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:29:52 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:29:55 PM   ***********************************************************
+16:29:55 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:29:56 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:30:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:30:05 PM   ***********************************************************
+12:43:29 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+12:43:30 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+12:43:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:43:44 PM   ***********************************************************
+12:43:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:43:44 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+12:43:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:43:57 PM   ***********************************************************
+12:43:57 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+12:43:57 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+12:44:05 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:44:09 PM   ***********************************************************
+12:44:09 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+12:44:09 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+12:44:17 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:44:20 PM   ***********************************************************
+12:44:20 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+12:44:21 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+12:44:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:44:32 PM   ***********************************************************
+12:44:32 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+12:44:32 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+12:44:41 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:44:44 PM   ***********************************************************
+12:44:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+12:44:44 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+12:44:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+12:44:57 PM   ***********************************************************
+13:32:25 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+13:32:26 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+13:32:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:32:36 PM   ***********************************************************
+13:32:36 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+13:32:36 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+13:32:43 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:32:47 PM   ***********************************************************
+13:32:47 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+13:32:47 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+13:32:52 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:32:56 PM   ***********************************************************
+13:32:56 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+13:32:59 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+13:33:09 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:33:13 PM   ***********************************************************
+13:33:13 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+13:33:13 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+13:33:18 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:33:21 PM   ***********************************************************
+13:33:22 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+13:33:22 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+13:33:29 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:33:33 PM   ***********************************************************
+13:33:33 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+13:33:33 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+13:33:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:33:44 PM   ***********************************************************
+13:35:14 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+13:35:14 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+13:35:20 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:21 PM   ***********************************************************
+13:35:21 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+13:35:21 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+13:35:27 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:27 PM   ***********************************************************
+13:35:27 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+13:35:28 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+13:35:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:32 PM   ***********************************************************
+13:35:32 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+13:35:32 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+13:35:37 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:37 PM   ***********************************************************
+13:35:37 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+13:35:37 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+13:35:41 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:41 PM   ***********************************************************
+13:35:41 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+13:35:41 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+13:35:47 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:48 PM   ***********************************************************
+13:35:48 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+13:35:48 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+13:35:55 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:35:55 PM   ***********************************************************
+13:54:49 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+13:54:49 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+13:54:55 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:55:04 PM   ***********************************************************
+13:55:04 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+13:55:04 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+13:55:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:55:18 PM   ***********************************************************
+13:55:18 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+13:55:18 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+13:55:22 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:55:31 PM   ***********************************************************
+13:55:31 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+13:55:31 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+13:55:35 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:55:42 PM   ***********************************************************
+13:55:42 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+13:55:43 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+13:55:46 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:55:54 PM   ***********************************************************
+13:55:54 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+13:55:54 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+13:56:00 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:56:08 PM   ***********************************************************
+13:56:08 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+13:56:08 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+13:56:14 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+13:56:22 PM   ***********************************************************
+14:01:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:01:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:01:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:01:58 PM   ***********************************************************
+14:01:58 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:01:59 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:02:05 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:02:12 PM   ***********************************************************
+14:02:12 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:02:12 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:02:16 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:02:24 PM   ***********************************************************
+14:02:24 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:02:24 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:02:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:02:35 PM   ***********************************************************
+14:02:35 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:02:36 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:02:39 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:02:46 PM   ***********************************************************
+14:02:46 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:02:47 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:02:53 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:03:00 PM   ***********************************************************
+14:03:00 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+14:03:00 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+14:03:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:03:13 PM   ***********************************************************
+14:29:08 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:29:08 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:29:44 PM   **Erreur lors de la Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:29:44 PM   ***********************************************************
+14:29:44 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:29:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:32:41 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:32:42 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:32:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:33:02 PM   ***********************************************************
+14:33:02 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:33:03 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:33:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:33:20 PM   ***********************************************************
+14:33:20 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:33:21 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:33:26 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:33:37 PM   ***********************************************************
+14:33:37 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:33:37 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:33:44 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:33:56 PM   ***********************************************************
+14:33:56 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:33:56 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:34:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:34:15 PM   ***********************************************************
+14:34:15 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:34:15 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:34:23 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:35:03 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:35:04 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:35:11 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:35:22 PM   ***********************************************************
+14:35:22 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:35:22 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:35:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:35:40 PM   ***********************************************************
+14:35:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:35:41 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:35:47 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:37:41 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:37:41 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:37:49 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:38:05 PM   ***********************************************************
+14:38:05 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:38:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:38:13 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:38:26 PM   ***********************************************************
+14:38:26 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:38:26 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:40:34 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:40:34 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:40:43 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:40:56 PM   ***********************************************************
+14:40:56 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:40:56 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:41:07 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:41:19 PM   ***********************************************************
+14:41:19 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:41:20 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:41:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:41:40 PM   ***********************************************************
+14:41:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:41:40 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:41:48 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:42:00 PM   ***********************************************************
+14:42:00 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:42:03 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:42:10 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:42:21 PM   ***********************************************************
+14:42:21 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:42:22 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:42:32 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:42:45 PM   ***********************************************************
+14:42:45 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+14:42:45 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+14:42:51 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:43:03 PM   ***********************************************************
+14:46:17 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:46:18 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+14:46:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:46:38 PM   ***********************************************************
+14:46:38 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:46:38 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+14:46:47 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:46:59 PM   ***********************************************************
+14:46:59 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:46:59 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+14:47:06 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:47:18 PM   ***********************************************************
+14:47:18 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:47:18 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+14:47:25 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:47:41 PM   ***********************************************************
+14:47:41 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:47:41 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+14:47:46 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:47:58 PM   ***********************************************************
+14:47:58 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:47:59 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+14:48:08 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:48:21 PM   ***********************************************************
+14:48:21 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+14:48:21 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+14:48:30 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+14:48:42 PM   ***********************************************************
+16:32:38 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:32:38 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:32:50 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:34:40 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:34:41 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:34:49 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:34:58 PM   ***********************************************************
+16:34:58 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:34:58 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:35:07 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:35:15 PM   ***********************************************************
+16:35:15 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:35:15 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:35:24 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:35:35 PM   ***********************************************************
+16:35:35 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:35:35 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:35:42 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:35:50 PM   ***********************************************************
+16:35:50 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:35:50 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:35:56 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:36:04 PM   ***********************************************************
+16:36:04 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:36:04 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:36:14 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:36:21 PM   ***********************************************************
+16:36:21 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:36:22 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:36:31 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:36:39 PM   ***********************************************************
+16:40:32 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:40:32 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CIN(1).pdf
+16:40:40 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:40:49 PM   ***********************************************************
+16:40:49 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:40:49 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\CNI Kaediatou KA .pdf
+16:40:58 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:41:06 PM   ***********************************************************
+16:41:06 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:41:06 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse.pdf
+16:41:13 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:41:21 PM   ***********************************************************
+16:41:21 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:41:21 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse000.pdf
+16:41:28 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:41:36 PM   ***********************************************************
+16:41:36 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:41:36 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\cni sse001.pdf
+16:41:42 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:41:51 PM   ***********************************************************
+16:41:51 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:41:52 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\KA .pdf
+16:42:01 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:42:09 PM   ***********************************************************
+16:42:09 PM   Ouverture du fichier C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:42:09 PM   Resuperation des informations du fichier  C:\Users\A696992\Desktop\RPA\CNI_Extract\CNI\Recto CNI.pdf
+16:42:18 PM  Ecriture des informations recuperees dans le fichier Excel : C:\Users\A696992\Desktop\RPA\CNI_Extract\Test\Clients.xlsx
+16:42:26 PM   ***********************************************************
